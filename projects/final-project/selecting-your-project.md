@@ -5,7 +5,7 @@ This is your chance to come up with pie-in-the-sky ideas including overly-ambiti
 ## Inspiration
 
 - Reflect on your day-to-day: where do you see an opportunity for an optimization or an improvement?
-  - An old product development trick is to observer users creating their own systems and then turning it into an app
+  - An old product development trick is to observe users creating their own systems and then turning it into an app
   - For example, roommates might keep a shared doc of pantry items they run out of to use when grocery shopping - could this be a dedicated app?
 - Current VC-funded apps tend to address the needs of wealthy white consumers with high disposable incomes so they can trade money for free time
   - Think of other markets more related to your and your family's life experiences
@@ -24,7 +24,6 @@ This is your chance to come up with pie-in-the-sky ideas including overly-ambiti
 
 - Despite popular opinion, thinking alone produces [better ideas than group brainstorming](https://www.newyorker.com/magazine/2012/01/30/groupthink)
 - Put yourself into FLOW MODE (mute slack, etc)
-  - Using paper is likely best
 - Review the above criteria
 - Check out the sample idea list
 - Set a 5 minute timer on your phone
